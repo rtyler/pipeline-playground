@@ -1,0 +1,3 @@
+node {
+    load 'foo.groovy'
+}
